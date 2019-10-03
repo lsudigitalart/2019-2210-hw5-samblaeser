@@ -4,6 +4,7 @@ angleMode(DEGREES);
 background(120);
 frameRate(10);
 }
+
 var i = 10
 var xD = 1
 var yD = 12 
